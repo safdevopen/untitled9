@@ -68,6 +68,11 @@ table {
 a {
     text-decoration: none;
 }
+
+main {
+    min-height: 2000px;
+}
+
 .clearfix:after {
     content: "";
     display: table;

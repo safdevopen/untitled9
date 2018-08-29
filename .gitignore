@@ -4,3 +4,5 @@ dist/
 app.yaml
 .idea/
 docs/
+.idea/
+.app/
