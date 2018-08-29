@@ -466,3 +466,6 @@ img {
     font-style: 12px;
     line-height: 16px;
 }
+.temp-class {
+    background-color: blue;
+}
